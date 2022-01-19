@@ -1,6 +1,8 @@
 # Top10-RichestPeople-List
+
+## Топ 10 богатых людей | Top 10 richest people
  
-![img-portfolio](https://user-images.githubusercontent.com/56477695/149764445-3d61b21e-e5f1-437e-a58b-1b143e35ed53.jpg)
+![img-portfolio](https://user-images.githubusercontent.com/56477695/150158449-5c9fece5-c88f-403c-9654-b2592770df6c.jpg)
 
 ### Codepen: https://codepen.io/vladimirsaenko/pen/bGoZLzK
 
