@@ -6,4 +6,4 @@
 
 ## Codepen: https://codepen.io/vladimirsaenko/pen/bGoZLzK
 
-## Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-52/Top10-RichestPeople-List/index.html
+## Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-44/Top10-RichestPeople-List/index.html
